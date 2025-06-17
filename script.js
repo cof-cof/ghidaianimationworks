@@ -124,7 +124,12 @@ data.forEach(a => {//data(配列)のa(各要素)を順番に1つずつ処理
 
     </div>
   `;
-  // ドロップダウン開閉
+});
+
+  observeArtworks(); 
+}
+
+// ===== ▼ グローバルに1回だけドロップダウンのイベントを設定 ▼ =====
 document.querySelectorAll('.dropdown').forEach(drop => {
   const btn = drop.querySelector('.dropdown-toggle');
   btn.addEventListener('click', e => {
@@ -134,17 +139,11 @@ document.querySelectorAll('.dropdown').forEach(drop => {
   });
 });
 
-// ドキュメント外をクリックしたら閉じる
 document.addEventListener('click', () => {
   document.querySelectorAll('.dropdown-toggle[aria-expanded="true"]')
     .forEach(btn => btn.setAttribute('aria-expanded', 'false'));
 });
-
-});
-
-
-  observeArtworks(); 
-}
+// ===== ▲ これを displayArtworks() の外に出したのが修正ポイント ▲
 
 /*constとは
 意味：
