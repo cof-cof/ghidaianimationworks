@@ -51,7 +51,7 @@
     "title": "stone egg",
     "artist": "GHIDAI",
     "image": "images/IMG_20250608_223032.jpg",
-    "tags": ["genga", "layout","Hilda's Story"],
+    "tags": ["genga", "layout", "mechanic","Hilda's Story"],
     "description": "少女ヒルダはこの石に乗ってきた。この石の周りには六つの一回り小さい石が並んでおり、その左右3つずつには対照的な石が付いている。日本古事記の国生み神話を彷彿とさせるこの配置、ヒルダはどうやってこの石を起動しこの星に降りてきたのか・・・逃げてきたのか",
     "id": "stone_egg"
   },
@@ -59,7 +59,7 @@
     "title": "Cockpit",
     "artist": "GHIDAI",
     "image": "images/Image (30).jpg",
-    "tags": ["genga", "layout","Hilda's Story"],
+    "tags": ["genga", "layout", "mechanic","Hilda's Story"],
     "description": "",
     "id": "cockpit"
   },
