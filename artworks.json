@@ -18,7 +18,7 @@
     {
     "title": "Ijichi Nijika AcrylicStand_Illust",
     "artist": "GHIDAI(原作:はまじあき)",
-    "image": "images/Image (11).png",
+    "image": "images/ijichinijikaacrylicstand_sample.png",
     "tags": ["AcrylicStand", "illustration", "kawaii", "bocchitherock"],
     "description": "",
     "id": "ijichi_nijika_AcrylicStand_illust"
@@ -26,7 +26,7 @@
     {
     "title": "Yamada Ryo AcrylicStand_Illust",
     "artist": "GHIDAI(原作:はまじあき)",
-    "image": "images/ryo.png",
+    "image": "images/yamadaryoacrylicstand_sample.png",
     "tags": ["AcrylicStand", "illustration", "kawaii", "bocchitherock"],
     "description": "",
     "id": "yamada_ryo_AcrylicStand_illust"
@@ -34,7 +34,7 @@
     {
     "title": "Johan_Genga",
     "artist": "GHIDAI",
-    "image": "images/IMG_0620.jpeg",
+    "image": "images/IMG_0823.jpeg",
     "tags": ["genga", "layout","Hilda's Story"],
     "description": "自主制作アニメーションのワンカット。私が絵を描き始めた当初から目指していたのがジブリの宮﨑駿さんでした。当初はひたすら「ジブリらしい絵」を描けるようにと毎日絵を描いていました。",
     "id": "johan_genga"
@@ -42,7 +42,7 @@
     {
     "title": "Hilda_Genga",
     "artist": "GHIDAI",
-    "image": "images/IMG_0621.jpeg",
+    "image": "images/IMG_0824.jpeg",
     "tags": ["genga", "layout","Hilda's Story"],
     "description": "自主制作アニメーションのワンカット。宇宙から飛来してきた謎の少女ヒルダ。彼女が蕾のままの鉢を触ると花がぶわっと咲きます。超常現象にも官能的にも見えるこのカットはジブリ宗派の演出を実現できる重要なカットとなります。",
     "id": "hilda_genga"
@@ -51,15 +51,15 @@
     "title": "stone egg",
     "artist": "GHIDAI",
     "image": "images/IMG_20250608_223032.jpg",
-    "tags": ["genga", "layout", "mechanic","Hilda's Story"],
+    "tags": ["genga", "layout","Hilda's Story"],
     "description": "少女ヒルダはこの石に乗ってきた。この石の周りには六つの一回り小さい石が並んでおり、その左右3つずつには対照的な石が付いている。日本古事記の国生み神話を彷彿とさせるこの配置、ヒルダはどうやってこの石を起動しこの星に降りてきたのか・・・逃げてきたのか",
     "id": "stone_egg"
   },
     {
     "title": "Cockpit",
     "artist": "GHIDAI",
-    "image": "images/Image (30).jpg",
-    "tags": ["genga", "layout", "mechanic","Hilda's Story"],
+    "image": "images/IMG_0830.jpeg",
+    "tags": ["genga", "layout","Hilda's Story"],
     "description": "",
     "id": "cockpit"
   },
@@ -71,6 +71,46 @@
     "description": "",
     "id": "johan_and_hilda"
     },
+        {
+    "title": "Johan&Hilda2",
+    "artist": "GHIDAI",
+    "image": "images/IMG_0828.jpeg",
+    "tags": ["layout", "Hilda's Story"],
+    "description": "",
+    "id": "johan_and_hilda2"
+    },
+           {
+    "title": "Johan&Hilda3",
+    "artist": "GHIDAI",
+    "image": "images/IMG_0829.jpeg",
+    "tags": ["layout", "Hilda's Story"],
+    "description": "",
+    "id": "johan_and_hilda3"
+    },
+        {
+    "title": "Hilda_Genga3",
+    "artist": "GHIDAI",
+    "image": "images/IMG_0827.jpeg",
+    "tags": ["genga", "layout","Hilda's Story"],
+    "description": "",
+    "id": "hilda_genga3"
+  },
+      {
+    "title": "久世しずか",
+    "artist": "GHIDAI",
+    "image": "images/kuzeshizuka.png",
+    "tags": ["illustration", "takopi"],
+    "description": "",
+    "id": "kuzeshizuka"
+  },
+      {
+    "title": "岸辺(チェンソーマン)",
+    "artist": "GHIDAI",
+    "image": "images/kishibe.png",
+    "tags": ["illustration", "gundam"],
+    "description": "",
+    "id": "kishibe"
+  },
     {
     "title": "Lalah Sune",
     "artist": "GHIDAI",
@@ -79,10 +119,18 @@
     "description": "",
     "id": "lalah_sune"
   },
+    {
+    "title": "宇宙",
+    "artist": "GHIDAI",
+    "image": "images/無題 - 2024年12月5日 22.58.26.png",
+    "tags": ["imageboard", "scenery"],
+    "description": "",
+    "id": "space"
+  },
   {
     "title": "Sky and Sea",
     "artist": "GHIDAI",
-    "image": "images/IMG_0624.jpeg",
+    "image": "images/IMG_0820.png",
     "tags": ["imageboard", "scenery","Hilda's Story"],
     "description": "海と空が混ざった星。幼い頃に観た「崖の上のポニョ」の空気を私も作りたいと思い描いたイメージボード。",
     "id": "sky_and_sea"
@@ -90,7 +138,7 @@
     {
     "title": "cave",
     "artist": "GHIDAI",
-    "image": "images/IMG_20250218_192717.jpg",
+    "image": "images/IMG_0822.jpeg",
     "tags": ["layout", "scenery","Hilda's Story"],
     "description": "自主制作アニメーションのワンカット。ヨハンが冒頭に見つけた謎の洞窟。何かを指しているこの空間でヨハンはヒルダと心が繋がり二人は出会うのであった。目というのは古来から神の象徴として描かれてきました。宮﨑監督の作品、ナウシカやonyourmarkにも「目」のデザインは多く登場しています。",
     "id": "cave"
@@ -138,7 +186,7 @@
   {
     "title": "Johan_Genga2",
     "artist": "GHIDAI",
-    "image": "images/IMG_0754.jpeg",
+    "image": "images/IMG_0826.jpeg",
     "tags": ["genga", "layout","Hilda's Story"],
     "description": "",
     "id": "johan_genga2"
