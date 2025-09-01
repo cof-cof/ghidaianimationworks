@@ -1,26 +1,64 @@
 [
+
+    {
+    "id": "walk",
+    "title": "惑星を歩く少女",
+    "artist": "GHIDAI",
+    "specialcontent": "specialcontent/コンポ 1_1 (1).mp4",
+    "description": "",
+    "thumbnail": "specialcontent/コンポ 1_1 (1) - frame at 0m0s.jpg"
+  },
+
+    {
+    "id": "animation5",
+    "title": "お姫様が一人の女性になる瞬間",
+    "artist": "GHIDAI",
+    "specialcontent": "specialcontent/animation5.mp4",
+    "description": "女性が涙を流すのは男を誘惑して思いのままに操ろうと試みる時です。恐らく彼女もそれです。",
+    "thumbnail": "specialcontent/animation5 - frame at 0m0s.jpg"
+  },
+
+    {
+    "id": "animation6",
+    "title": "タイムラプスその１",
+    "artist": "GHIDAI",
+    "specialcontent": "specialcontent/animation6.mp4",
+    "description": "戦闘アニメーション",
+    "thumbnail": "specialcontent/animation6 - frame at 0m1s.jpg"
+  },
+
+    {
+    "id": "nijikaanime",
+    "title": "タイムラプスその１",
+    "artist": "GHIDAI",
+    "specialcontent": "specialcontent/nijikaanimation1.mp4",
+    "description": "曲線は難しい",
+    "thumbnail": "specialcontent/nijikaanimation1 - frame at 0m0s.jpg"
+  },
+
+
   {
     "id": "sp001",
-    "title": "a",
-    "artist": "a",
+    "title": "タイムラプスその１",
+    "artist": "GHIDAI",
     "specialcontent": "specialcontent/lv_0_20250427233759.mp4",
-    "description": "aaa",
+    "description": "鉛筆を長く持ったり、短く持ったりを描くものに合わせて変える意識が身についていることを改めて実感しました。",
     "thumbnail": "specialcontent/thumbnail1.jpg"
   },
   {
     "id": "sp002",
-    "title": "b",
-    "artist": "b",
+    "title": "タイムラプスその２",
+    "artist": "GHIDAI",
     "specialcontent": "specialcontent/MicrosoftTeams-video.mp4",
-    "description": "bbb",
+    "description": "アイレベル、消失点をアニメ私塾で勉強して描いた絵。",
     "thumbnail": "specialcontent/thumbnail2.jpg"
   },
   {
     "id": "sp003",
-    "title": "c",
-    "artist": "c",
+    "title": "正面アオリアングルの歩き",
+    "artist": "GHIDAI",
     "specialcontent": "specialcontent/MicrosoftTeams-video2.mp4",
-    "description": "ccc",
+    "description": "",
     "thumbnail": "specialcontent/MicrosoftTeams-video2 - frame at 0m1s.jpg"
   },
   {
@@ -28,7 +66,7 @@
     "title": "RAIN",
     "artist": "GHIDAI",
     "specialcontent": "specialcontent/RAIN.mp4",
-    "description": "",
+    "description": "ウクレレとアコースティックギターで作曲、演奏した楽曲RAIN。裏庭の雨の匂いを思い出す曲にしました。演奏ではアコースティックギターのみを使用していますが、メロディや楽曲の大枠はウクレレで作りました。",
     "thumbnail": "specialcontent/RAIN.png"
   }
 ]
