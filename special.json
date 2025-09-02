@@ -14,22 +14,22 @@
     "title": "お姫様が一人の女性になる瞬間",
     "artist": "GHIDAI",
     "specialcontent": "specialcontent/animation5.mp4",
-    "description": "女性が涙を流すのは男を誘惑して思いのままに操ろうと試みる時です。恐らく彼女もそれです。",
+    "description": "",
     "thumbnail": "specialcontent/animation5 - frame at 0m0s.jpg"
   },
 
     {
     "id": "animation6",
-    "title": "タイムラプスその１",
+    "title": "戦闘アニメーション",
     "artist": "GHIDAI",
     "specialcontent": "specialcontent/animation6.mp4",
-    "description": "戦闘アニメーション",
+    "description": "",
     "thumbnail": "specialcontent/animation6 - frame at 0m1s.jpg"
   },
 
     {
     "id": "nijikaanime",
-    "title": "タイムラプスその１",
+    "title": "振り向きアニメーション",
     "artist": "GHIDAI",
     "specialcontent": "specialcontent/nijikaanimation1.mp4",
     "description": "曲線は難しい",
@@ -70,4 +70,5 @@
     "thumbnail": "specialcontent/RAIN.png"
   }
 ]
+
 
